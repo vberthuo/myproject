@@ -1,0 +1,4 @@
+30.09.2013 14:25:28 Vault sync service started and observing this directory.
+30.09.2013 14:25:28 Sync root configured with filter /Users/Vivien/myproject/content/src/main/content/META-INF/vault/filter.xml
+30.09.2013 14:25:28 Syncing in /Users/Vivien/myproject/content/src/main/content/jcr_root is enabled by .vlt-sync-config.properties
+30.09.2013 14:25:38 U jcr:///apps/myproject/config/put-your-configs-here.txt
